@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Serg"
+	],
+	"copyright": "Copyright © 2023, Serg",
+	"dependencies": {
+		"dcompute": "~master"
+	},
+    "dflags" : ["-mdcompute-targets=ocl-210" ,"-oq"],
+	"description": "A minimal D OpenCL application.",
+	"license": "MIT",
+	"name": "d_example"
+}

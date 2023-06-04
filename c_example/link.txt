@@ -1,0 +1,1 @@
+https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/
