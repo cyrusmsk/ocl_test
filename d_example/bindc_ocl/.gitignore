@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/bindc_ocl
+bindc_ocl.so
+bindc_ocl.dylib
+bindc_ocl.dll
+bindc_ocl.a
+bindc_ocl.lib
+bindc_ocl-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
