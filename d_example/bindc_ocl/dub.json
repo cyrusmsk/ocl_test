@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Sergei Giniatulin"
+	],
+	"copyright": "Copyright © 2025, Sergei Giniatulin",
+	"dependencies": {
+		"bindbc-opencl": "~>0.1.1"
+	},
+	"description": "OpenCL example in D with BindBC lib",
+	"license": "proprietary",
+	"name": "bindc_ocl"
+}

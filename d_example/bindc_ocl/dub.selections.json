@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-loader": "1.0.3",
+		"bindbc-opencl": "0.1.1"
+	}
+}

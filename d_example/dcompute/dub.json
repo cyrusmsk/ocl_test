@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Sergei Giniatulin"
+	],
+	"copyright": "Copyright © 2025, Sergei Giniatulin",
+	"dependencies": {
+		"dcompute": "~master"
+	},
+    "dflags": ["-mdcompute-targets=ocl-210", "-oq"],
+	"description": "OpenCL example with Dcompute",
+	"license": "proprietary",
+	"name": "dcompute"
+}
