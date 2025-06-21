@@ -12,5 +12,5 @@
     "dflags": ["-mdcompute-targets=ocl-210", "-oq"],
 	"description": "OpenCL example with Dcompute",
 	"license": "proprietary",
-	"name": "dcompute"
+	"name": "d_compute"
 }

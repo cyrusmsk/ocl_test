@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/d_compute
+d_compute.so
+d_compute.dylib
+d_compute.dll
+d_compute.a
+d_compute.lib
+d_compute-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
