@@ -4,7 +4,10 @@
 	],
 	"copyright": "Copyright © 2025, Sergei Giniatulin",
 	"dependencies": {
-		"dcompute": "~master"
+		"dcompute": {
+            "repository": "git+https://github.com/libmir/dcompute.git",
+            "version": "63d769be3ff94c1c8b75bfc6e194f78134e2f75f"
+        }
 	},
     "dflags": ["-mdcompute-targets=ocl-210", "-oq"],
 	"description": "OpenCL example with Dcompute",
